@@ -8,6 +8,9 @@ import {
   Palette,
   Sparkles,
 } from "lucide-react";
+import {getTranslations} from "next-intl/server";
+
+import LanguageSwitcher from "@/components/LanguageSwitcher";
 
 const styles = [
   {
@@ -30,7 +33,9 @@ const styles = [
   },
 ];
 
-export default function Home() {
+export default async function Home() {
+  const t = await getTranslations();
+  
   return (
     <main className="min-h-screen bg-[#FAF8F4] text-[#26372D]">
       {/* Navbar */}
