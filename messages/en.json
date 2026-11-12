@@ -12,11 +12,42 @@
     "highlight": "A Masterpiece.",
     "description": "Transform your favorite pet photo into a beautiful personalized portrait. A timeless keepsake for the companion you love.",
     "button": "Create My Portrait",
-    "how": "How It Works"
+    "how": "How It Works",
+    "digitalDelivery": "Digital delivery",
+    "personalizedArtwork": "Personalized artwork",
+    "artworkTitle": "Forever Loved",
+    "artworkSubtitle": "YOUR BEST FRIEND"
+  },
+  "Styles": {
+    "label": "OUR ART STYLES",
+    "title": "Every Pet Deserves a Masterpiece",
+    "watercolor": "Watercolor",
+    "watercolorDescription": "Soft, elegant watercolor portraits.",
+    "royal": "Royal Portrait",
+    "royalDescription": "Turn your pet into a royal masterpiece.",
+    "minimalist": "Minimalist",
+    "minimalistDescription": "Modern, clean and timeless artwork."
+  },
+  "How": {
+    "title": "How It Works",
+    "upload": "Upload Photo",
+    "uploadDescription": "Upload your favorite photo of your pet.",
+    "choose": "Choose Style",
+    "chooseDescription": "Select your favorite artistic style.",
+    "receive": "Receive Artwork",
+    "receiveDescription": "Get your personalized digital portrait."
   },
   "Pricing": {
     "title": "A Memory That Lasts Forever",
     "product": "Digital Pet Portrait",
     "description": "One personalized digital portrait"
+  },
+  "Footer": {
+    "tagline": "Personalized pet artwork, made with love."
+  },
+  "Create": {
+    "title": "Create Your Pet Portrait",
+    "description": "Photo upload and portrait customization coming next.",
+    "back": "Back to Homepage"
   }
 }

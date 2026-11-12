@@ -12,11 +12,42 @@
     "highlight": "Ein Kunstwerk.",
     "description": "Verwandle dein Lieblingsfoto in ein wunderschönes personalisiertes Tierporträt. Eine besondere Erinnerung an deinen treuen Begleiter.",
     "button": "Mein Porträt gestalten",
-    "how": "So funktioniert's"
+    "how": "So funktioniert's",
+    "digitalDelivery": "Digitale Lieferung",
+    "personalizedArtwork": "Personalisiertes Kunstwerk",
+    "artworkTitle": "Für immer geliebt",
+    "artworkSubtitle": "DEIN TREUER BEGLEITER"
+  },
+  "Styles": {
+    "label": "UNSERE KUNSTSTILE",
+    "title": "Jedes Haustier verdient ein Kunstwerk",
+    "watercolor": "Aquarell",
+    "watercolorDescription": "Sanfte, elegante Aquarellporträts.",
+    "royal": "Königliches Porträt",
+    "royalDescription": "Verwandle dein Haustier in ein königliches Meisterwerk.",
+    "minimalist": "Minimalistisch",
+    "minimalistDescription": "Modern, schlicht und zeitlos."
+  },
+  "How": {
+    "title": "So funktioniert's",
+    "upload": "Foto hochladen",
+    "uploadDescription": "Lade dein Lieblingsfoto von deinem Haustier hoch.",
+    "choose": "Stil auswählen",
+    "chooseDescription": "Wähle deinen bevorzugten Kunststil.",
+    "receive": "Porträt erhalten",
+    "receiveDescription": "Erhalte dein personalisiertes digitales Tierporträt."
   },
   "Pricing": {
     "title": "Eine Erinnerung für immer",
     "product": "Digitales Tierporträt",
     "description": "Ein personalisiertes digitales Tierporträt"
+  },
+  "Footer": {
+    "tagline": "Persönliche Tierporträts, mit Liebe gestaltet."
+  },
+  "Create": {
+    "title": "Gestalte dein Tierporträt",
+    "description": "Foto-Upload und Porträtgestaltung folgen in Kürze.",
+    "back": "Zurück zur Startseite"
   }
 }
