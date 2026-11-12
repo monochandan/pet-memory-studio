@@ -1,0 +1,22 @@
+
+{
+  "Navigation": {
+    "styles": "Unsere Kunststile",
+    "how": "So funktioniert's",
+    "pricing": "Preise",
+    "create": "Porträt gestalten"
+  },
+  "Hero": {
+    "badge": "Personalisierte Tierporträts",
+    "title": "Dein Haustier.",
+    "highlight": "Ein Kunstwerk.",
+    "description": "Verwandle dein Lieblingsfoto in ein wunderschönes personalisiertes Tierporträt. Eine besondere Erinnerung an deinen treuen Begleiter.",
+    "button": "Mein Porträt gestalten",
+    "how": "So funktioniert's"
+  },
+  "Pricing": {
+    "title": "Eine Erinnerung für immer",
+    "product": "Digitales Tierporträt",
+    "description": "Ein personalisiertes digitales Tierporträt"
+  }
+}

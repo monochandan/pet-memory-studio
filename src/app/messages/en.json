@@ -1,0 +1,22 @@
+
+{
+  "Navigation": {
+    "styles": "Our Styles",
+    "how": "How It Works",
+    "pricing": "Pricing",
+    "create": "Create Portrait"
+  },
+  "Hero": {
+    "badge": "Personalized Pet Artwork",
+    "title": "Your Pet.",
+    "highlight": "A Masterpiece.",
+    "description": "Transform your favorite pet photo into a beautiful personalized portrait. A timeless keepsake for the companion you love.",
+    "button": "Create My Portrait",
+    "how": "How It Works"
+  },
+  "Pricing": {
+    "title": "A Memory That Lasts Forever",
+    "product": "Digital Pet Portrait",
+    "description": "One personalized digital portrait"
+  }
+}
